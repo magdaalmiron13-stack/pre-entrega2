@@ -110,21 +110,14 @@ section {
 
 .btn-principal {
 
-  /* Color del texto del boton */
   color: #ffffff;
 
-  /* Espacio interno:
-     0.6rem arriba/abajo
-     1.2rem izquierda/derecha */
   padding: 0.6rem 1.2rem;
 
-  /* Elimina el borde predeterminado */
   border: none;
 
-  /* Redondea las esquinas */
   border-radius: 4px;
 
-  /* Hace que el cursor se convierta en una mano cuando pasas por encima */
   cursor: pointer;
 }
 
